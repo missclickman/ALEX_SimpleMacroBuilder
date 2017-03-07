@@ -7,14 +7,14 @@ I'm sure it's optimizable a lot, its total opensource, dont be shy , lets custom
 
 ;===================================================================================================================
 
-ChangeLog  : _v0.1	
--First real release.
--Send click to a specific game/windows , but for this the specified window need to be in the foreground (MLLE-ALEX_KEYSTROKER will do it itself, dont worry)
--Send Keystroke to non-focused / background game ; lets automate boring actions while surfing in the net, watch videos....
--Self-explained macro builder, just mouse-hover something to know what it will do
+*ChangeLog  : _v0.1	
+- First real release.
+- Send click to a specific game/windows , but for this the specified window need to be in the foreground (MLLE-ALEX_KEYSTROKER will do it itself, dont worry)
+- Send Keystroke to non-focused / background game ; lets automate boring actions while surfing in the net, watch videos....
+- Self-explained macro builder, just mouse-hover something to know what it will do
 ;===================================================================================================================
 
--Special features for The Secret World game :
+*Special features for The Secret World game :
 - This script detect if your game is TSW , witch is known for his instability. So the script offers you to watch if the game crash, 
 them reload it for you - turn-on macro when back in game.
 For this, the script need your LOG and PASSWORD (dont be shy they are not saved)
@@ -22,7 +22,7 @@ For this, the script need your LOG and PASSWORD (dont be shy they are not saved)
 ;===================================================================================================================
 
 *Special thanks to ppl who helped me a lot in the IRC channel :*
--tidbit  -  Grendahl - GeekDude - RebelEpik - Phaleth
+- tidbit  -  Grendahl - GeekDude - RebelEpik - Phaleth
 
 *Also many thanks to ppl shared script on this forum where i took some idea and part of code:*
 - tmplinshi ( https://autohotkey.com/boards/viewtopic.php?f=6&t=225 ) KeypressOSD
