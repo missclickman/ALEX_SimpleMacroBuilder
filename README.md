@@ -12,6 +12,7 @@ I'm sure it's optimizable a lot, its total opensource, dont be shy , lets custom
 - Send click to a specific game/windows , but for this the specified window need to be in the foreground (MLLE-ALEX_KEYSTROKER will do it itself, dont worry)
 - Send Keystroke to non-focused / background game ; lets automate boring actions while surfing in the net, watch videos....
 - Self-explained macro builder, just mouse-hover something to know what it will do
+
 ;===============================================================================
 
 *Special features for The Secret World game :
